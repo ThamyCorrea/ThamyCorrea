@@ -1,16 +1,23 @@
-### Hi there 👋
+# Meu nome é Thamiris, mas podem me chamar de Thamy! <img src="https://github.com/ThamyCorrea/ThamyCorrea/assets/113396298/a39f1268-0604-42f8-ba6e-aac79b151d52" width=100 height=100>
+Atualmente, estou em um emocionante processo de transição de carreira, direcionando minha paixão para o mundo da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e também estou matriculada em um curso de longa duração na Cubos Academy, com uma parceria valorosa com o iFood, focado no Desenvolvimento de Software Backend. Fui selecionada dentre 40 mil candidatos para ocupar uma das 1.000 vagas disponíveis neste programa altamente concorrido.
 
-<!--
-**ThamyCorrea/ThamyCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia.
 
-Here are some ideas to get you started:
+### Você tembém pode me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;<a href="https://www.linkedin.com/in/thamiris-corrêa">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp; (https://www.linkedin.com/in/thamiris-corrêa)
+
+### Hards Skills
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white<img src=">
+
+
+
+
+
