@@ -1,7 +1,7 @@
 # Meu nome é Thamiris, mas podem me chamar de Thamy! <img src="https://github.com/ThamyCorrea/ThamyCorrea/assets/113396298/a39f1268-0604-42f8-ba6e-aac79b151d52" width=100 height=100>
-Atualmente, estou em um emocionante processo de transição de carreira, direcionando minha paixão para o mundo da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e também estou matriculada em um curso de longa duração na Cubos Academy, com uma parceria valorosa com o iFood, focado no Desenvolvimento de Software Backend. Fui selecionada dentre 40 mil candidatos para ocupar uma das 1.000 vagas disponíveis neste programa altamente concorrido.
-
-Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia.
+Atualmente, estou em um emocionante processo de transição de carreira, direcionando minha paixão para o mundo da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e concluí com êxito um curso de longa duração na Cubos Academy, concentrado no Desenvolvimento de Software Backend
+ 
+Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia. 
 
 ### Você tembém pode me encontrar:
 
