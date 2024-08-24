@@ -1,6 +1,10 @@
 # Meu nome é Thamiris, mas podem me chamar de Thamy! <img src="https://github.com/ThamyCorrea/ThamyCorrea/assets/113396298/a39f1268-0604-42f8-ba6e-aac79b151d52" width=100 height=100>
-Atualmente, estou em um emocionante processo de transição de carreira, direcionando minha paixão para o mundo da tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e concluí com êxito um curso de longa duração na Cubos Academy, concentrado no Desenvolvimento de Software Backend
+Estou em transição de carreira para a área de tecnologia, com foco em Desenvolvimento de Software.
  
+Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, e com certificação em Desenvolvimento de Software Backend pela Cubos Academy, adquiri sólida experiência em tecnologias como JavaScript, Node.js, e bancos de dados PostgreSQL e MySQL. Além disso, estou aprimorando meus conhecimentos em Desenvolvimento Web em PHP pela B7Web, com foco em lógica de programação, orientação a objetos e padrões de projeto como SOLID e MVC. 
+
+Minha formação incluiu práticas com metodologias ágeis, ferramentas como GitHub, e desenvolvimento de fortes habilidades interpessoais.
+
 Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia. 
 
 ### Você tembém pode me encontrar:
