@@ -1,9 +1,20 @@
 # Meu nome é Thamiris, mas podem me chamar de Thamy! <img src="https://github.com/ThamyCorrea/ThamyCorrea/assets/113396298/a39f1268-0604-42f8-ba6e-aac79b151d52" width=100 height=100>
-Estou em transição de carreira para a área de tecnologia, com foco em Desenvolvimento de Software.
- 
-Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, e com certificação em Desenvolvimento de Software Backend pela Cubos Academy, adquiri sólida experiência em tecnologias como JavaScript, Node.js, e bancos de dados PostgreSQL e MySQL. Além disso, estou aprimorando meus conhecimentos em Desenvolvimento Web em PHP pela B7Web, com foco em lógica de programação, orientação a objetos e padrões de projeto como SOLID e MVC. 
 
-Minha formação incluiu práticas com metodologias ágeis, ferramentas como GitHub, e desenvolvimento de fortes habilidades interpessoais.
+Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com formação prevista para 12/2024.
+
+No momento, me dedicando para alcançar proficiência em 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" width="50px">
+
+
+Curso: FIAP - Fundamentos em JAVA - 40h
+Participo das comunidades: 
+- soujava.org.br e github.com/soujava
+- Discord: JavaBrasil
+
+ Conhecimento: <br/> <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
 Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia. 
 
@@ -15,11 +26,16 @@ Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, bu
 
 ### Hards Skills
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white<img src=">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Agile-0E9E4A?style=for-the-badge&logo=agile&logoColor=white">
+
+
+
+
+
+
+
 
 
 
