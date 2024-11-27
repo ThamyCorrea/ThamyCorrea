@@ -6,17 +6,36 @@ No momento, me dedicando para alcançar proficiência em
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" width="50px">
 
 
-Curso: FIAP - Fundamentos em JAVA - 40h
-Participo das comunidades: 
-- soujava.org.br e github.com/soujava
-- Discord: JavaBrasil
+## Certificação:
+
+### Fundamentos em Java (FIAP) – 40h, concluído.
+- Conceitos de orientação a objetos (classes, métodos, atributos e herança).
+- Estruturas de repetição, arrays, strings e coleções.
+- Tratamento de exceções e design patterns.
+- Acesso ao banco de dados com Oracle SQL Developer.
+
+# Desenvolvimento atual: 
+
+Aprimorando minhas habilidades em Java, com foco em:
+
+- Programação funcional, expressões lambda e Stream API.
+- Manipulação de arquivos e JDBC para integração com bancos de dados SQL.
+- Desenvolvimento de interfaces gráficas com JavaFX.
+- Utilização do Spring Boot para aplicações comerciais.
+- Integração com JPA/Hibernate para mapeamento objeto-relacional (ORM).
+- Gerenciamento de dependências com Maven.
+- Acesso a dados com Spring Data JPA e Spring Data MongoDB para soluções NoSQL.
+
+### Tenho dedicação e comprometimento para me tornar uma profissional de destaque na área de tecnologia. Busco constantemente aprimorar minhas habilidades.
+
+
+  
 
  Conhecimento: <br/> <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
-Dedico-me diariamente para me tornar uma profissional de tecnologia exemplar, buscando sempre aprimorar meu conjunto de habilidades e contribuir significativamente para o campo em constante evolução da tecnologia. 
 
 ### Você tembém pode me encontrar:
 
