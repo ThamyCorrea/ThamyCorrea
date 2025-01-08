@@ -1,6 +1,8 @@
 # Meu nome é Thamiris, mas podem me chamar de Thamy! <img src="https://github.com/ThamyCorrea/ThamyCorrea/assets/113396298/a39f1268-0604-42f8-ba6e-aac79b151d52" width=100 height=100>
 
-Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com formação prevista para 12/2024.
+Formada em Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, em 12/2024.
+
+Cursando Engenharia de Software na Estácio, início 01/2025 com previsão de conclusão 01/2029.
 
 No momento, me dedicando para alcançar proficiência em 
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" width="50px">
